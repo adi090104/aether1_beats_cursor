@@ -8,4 +8,4 @@ This is an experiment with Cursor to make music beats.
 - 8×16 step sequencer + transport controls
 - Three.js ambient background visuals
 
-
+https://aether1-beats-cursor.vercel.app
