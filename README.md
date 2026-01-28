@@ -1,17 +1,15 @@
 ## ÆTHER-1 — Retro Futuristic Ethereal Beat Maker
 
-A browser-based beat maker and sound design toy with a clean retro-device UI inspired by minimalist hardware instruments.
+This is an experiment with Cursor to make music beats.
 
-- **3D background**: Three.js ambient metallic scene
-- **Sound engine**: Web Audio API synth voices + ethereal/Kanye-inspired FX
-- **Sequencer**: 8×16 step grid with transport controls
+### What it does
 
-### Run locally
+- Retro-device style UI for an ethereal beat maker
+- 8×16 step sequencer + transport controls
+- Web Audio synth voices + ethereal / Kanye-inspired sound FX
+- Three.js ambient background visuals
 
-```bash
-cd "/Users/aditya/Desktop/ai stuff/music"
-python3 -m http.server 8080
-```
+### Screenshot
 
-Then open `http://localhost:8080`.
+![UI screenshot](assets/ui.png)
 
